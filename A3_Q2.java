@@ -96,28 +96,8 @@ public class A3_Q2 {
                             break;
                         }
                     }
-                    /*if(search.equals(product_name[0].toLowerCase())){
-                        System.out.print("Name: "+product_name[0]);
-                        System.out.print("Price: $"+price[0]);
-                        System.out.print("Quantity: "+quantity[0]);
-                    }else if(search.equals(product_name[1].toLowerCase())){
-                        System.out.print("Name: "+product_name[1]);
-                        System.out.print("Price: $"+price[1]);
-                        System.out.print("Quantity: "+quantity[1]);
-                    }else if(search.equals(product_name[2].toLowerCase())){
-                        System.out.print("Name: "+product_name[2]);
-                        System.out.print("Price: $"+price[2]);
-                        System.out.print("Quantity: "+quantity[2]);
-                    } else if (search.equals(product_name[3].toLowerCase())) {
-                        System.out.print("Name: "+product_name[3]);
-                        System.out.print("Price: $"+price[3]);
-                        System.out.print("Quantity: "+quantity[3]);
-                    }else if (search.equals(product_name[4].toLowerCase())){
-                        System.out.print("Name: "+product_name[4]);
-                        System.out.print("Price: $"+price[4]);
-                        System.out.print("Quantity: "+quantity[4]);
-                    }*/
-                    break;
+                      break;
+                
                 case 4:
                     int lowest_quantity=0;
                     System.out.println("\nProduct with the Lowest Quantity:");
